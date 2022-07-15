@@ -16,3 +16,5 @@ The vital program files are:
 - tables.py
 
 To run the program, simply execute gui.py using the console or an IDE of your choice. 
+
+Refer to the PDF file (in Spanish) to learn more about the applications and instructions for this program.
